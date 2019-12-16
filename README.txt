@@ -3,4 +3,4 @@ Requires php-gd installed.
 
 https://server.playonset.com/?ipv4=137.74.233.213&port=7777
 
-![Example](example.png)
+![Example](https://github.com/BlueMountainsIO/OnsetServerSignature/blob/master/example.png)
