@@ -1,0 +1,13 @@
+
+This work (and included software, documentation such as READMEs, or other related items) is being provided by the copyright holders under the following license. By obtaining, using and/or copying this work, you (the licensee) agree that you have read, understood, and will comply with the following terms and conditions.
+
+Permission to use, copy and distribute this source code and its documentation for any purpose and without fee or royalty is hereby granted, provided that you include the following on ALL copies of the software and documentation or portions thereof, including modifications, that you make:
+   
+1. The full text of this NOTICE in a location viewable to users of the redistributed or derivative work.
+2. You may use the source code in any application and distribute it in binary form
+3. You may modify the header files (*.h file(s)) to include the source code in your application
+4. You may modify the *.c file(s) for testing purpose
+5. If you want to use any modified *.c file(s) in your application you must ask the author. It is important that everybody keeps with the ogp specification otherwise the hole project is useless. In general we'll garant every modification that is ogp conform. 
+
+
+LICENSED PRODUCT IS PROVIDED UNDER THIS LICENSE ON AN AS IS BASIS, WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, WARRANTIES THAT THE LICENSED PRODUCT IS FREE OF DEFECTS, MERCHANTABLE, FIT FOR A PARTICULAR PURPOSE OR NON-INFRINGING. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE LICENSED PRODUCT IS WITH YOU.  SHOULD LICENSED PRODUCT PROVE DEFECTIVE IN ANY RESPECT, YOU (AND NOT THE LICENSOR OR ANY OTHER CONTRIBUTOR) ASSUME THE COST OF ANY NECESSARY SERVICING, REPAIR OR CORRECTION.  THIS DISCLAIMER OF WARRANTY CONSTITUTES AN ESSENTIAL PART OF THIS LICENSE. NO USE OF LICENSED PRODUCT IS AUTHORIZED HEREUNDER EXCEPT UNDER THIS DISCLAIMER.
